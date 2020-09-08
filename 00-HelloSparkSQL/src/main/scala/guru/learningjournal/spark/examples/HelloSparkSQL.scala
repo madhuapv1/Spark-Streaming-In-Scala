@@ -25,6 +25,8 @@ object HelloSparkSQL extends Serializable {
     logger.info(countDF.collect().mkString("->"))
     //scala.io.StdIn.readLine()
     spark.stop()
+    //madhu
+    //mupparaju
 
   }
 }

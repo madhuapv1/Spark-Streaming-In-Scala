@@ -27,6 +27,7 @@ object HelloSparkSQL extends Serializable {
     spark.stop()
     //madhu
     //mupparaju
+    //new
 
   }
 }
